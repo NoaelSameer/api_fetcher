@@ -1,10 +1,11 @@
-
-import Poki from "./components/Poki"
+"use client"
+import RandomFood from "./components/randomFood"
 
 export default function Home() {
   return (
     <>
-      <Poki />
+      <p>hi</p>
+      < RandomFood />
     </>
   );
 }
